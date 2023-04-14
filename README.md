@@ -114,3 +114,28 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 6.9 **[Baidu WenXinYiGe: https://yige.baidu.com/](https://yige.baidu.com/)** - **_Freemium_** - _Ai art and creation._
 
 6.10 **[ClipDrop: https://clipdrop.co/](https://clipdrop.co/)** - **_Freemium_** - _Create stunning visuals in seconds._
+
+### 7. AI Write (Official)
+
+7.1 **[Notion AI: https://www.notion.so/product/ai](https://www.notion.so/product/ai)** - **_Freemium_** - _Notion is the connected workspace where
+better, faster work happens._
+
+7.2 **[Mem: https://get.mem.ai/](https://get.mem.ai/)** - **_Freemium_** - _The self-organizing workspace._
+
+7.3 **[Microsoft Loop: https://loop.microsoft.com/](https://loop.microsoft.com/)** - **_Freemium_** - _Think, plan and create together._
+
+7.4 **[Jasper: https://www.jasper.ai/](https://www.jasper.ai/)** - **_Freemium_** - _Jasper is the generative AI platform for business that helps your team create content tailored for your brand 10X faster, wherever you work online._
+
+7.5 **[Writesonic: https://writesonic.com/](https://writesonic.com/)** - **_Freemium_** - _Best AI Writer for Creating._
+
+7.6 **[Rytr: https://rytr.me/](https://rytr.me/)** - **_Freemium_** - _A better, 10x faster way to write._
+
+7.7 **[Tencent Effidit: https://effidit.qq.com/](https://effidit.qq.com/)** - **_Free_** - _Efficient and Intelligent Editing._
+
+7.8 **[TextCortex: https://textcortex.com/](https://textcortex.com/)** - **_Freemium_** - _verything you need for your writing workflow._
+
+7.9 **[BitDance Writingo: https://www.writingo.net/](https://www.writingo.net/)** - **_Freemium_** - _Fluent writing, confident expression._
+
+7.10 **[Copy AI: https://www.copy.ai/](https://www.copy.ai/)** - **_Freemium_** - _Whatever you want to ask, our chat has the answers._
+
+### 8. AI Audio (Official)
