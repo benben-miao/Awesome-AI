@@ -138,6 +138,8 @@ better, faster work happens._
 
 7.10 **[Copy AI: https://www.copy.ai/](https://www.copy.ai/)** - **_Freemium_** - _Whatever you want to ask, our chat has the answers._
 
+7.11 **[Resume Studio: https://resumestudio.careers/](https://resumestudio.careers/)** - **_Freemium_** - _Revolutionary way to build your resume._
+
 ### 8. AI Audio (Official)
 
 8.1 **[XunFei peiyin: https://peiyin.xunfei.cn/](https://peiyin.xunfei.cn/)** - **_Freemium_** - _Make your audio and video creation faster, more conomical and more unique._
@@ -158,6 +160,28 @@ better, faster work happens._
 
 8.9 **[Riffusion: https://www.riffusion.com/](https://www.riffusion.com/)** - **_Free_** - _Rock and roll electric guitar solo._
 
-8.10 **[Boomy**: https://boomy.com/](https://boomy.com/)** - **_Free_** - _Create generative music Share it with the world._
+8.10 **[Boomy: https://boomy.com/](https://boomy.com/)** - **_Free_** - _Create generative music Share it with the world._
 
 ### 9. AI Video (Official)
+
+9.1 **[RunwayML: https://runwayml.com/](https://runwayml.com/)** - **_Freemium_** - _Everything you need to make anything you want._
+
+9.2 **[D-ID: https://www.d-id.com/](https://www.d-id.com/)** - **_Paid_** - _Digital People Text-to-Video._
+
+9.3 **[WonderDynamics: https://wonderdynamics.com/](https://wonderdynamics.com/)** - **_Free_** - _An AI tool that automatically animates, lights and composes CG characters into a live-action scene._
+
+9.4 **[Tencent Zenvideo: https://zenvideo.qq.com/](https://zenvideo.qq.com/)** - **_Freemium_** - _Welcome to Tencent Zhiying, your exclusive intelligent creation tool._
+
+9.5 **[Artflow AI: https://www.app.artflow.ai/](https://www.app.artflow.ai/)** - **_Freemium_** - _Effortlessly turn ideas into Animated Stories & let the Creativity flow._
+
+9.6 **[Fliki AI: https://fliki.ai/](https://fliki.ai/)** - **_Freemium_** - _Turn text into videos with AI voices._
+
+9.7 **[Gencraft: https://gencraft.com/](https://gencraft.com/)** - **_Free_** - _The world’s most powerful AI photo and video art generation engine._
+
+9.8 **[Colourlab AI: https://colourlab.ai/](https://colourlab.ai/)** - **_Paid_** - _olourlab AI Powering those ‘I made that’ moments._
+
+9.9 **[Elai: https://elai.io/](https://elai.io/)** - **_Paid_** - _reate AI videos from just text._
+
+### 10. AI App (Official)
+
+10.1 **[BrainAI Imagica: https://get.imagica.ai](https://get.imagica.ai)** - **_Free_** - _BUILD A NO-CODE AI APP IN MINUTES._
