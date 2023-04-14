@@ -12,3 +12,6 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 - In February, 2023, Google announced the chat robot Bard, which was driven by Google's big language model LaMDA. On March 22, 2023, Google opened the beta of Bard.
 
 - On February, 2023, Baidu officially announced that it would launch Wenxin Yiyan, which was officially launched. The underlying technical foundation of Wenxin Yiyan is Wenxin Big Language Model, and the underlying logic is to provide services through Baidu.
+---
+### 2. AI Collection
+2.1 **[FuturePedia](https://www.futurepedia.io)** - **_Free_** - _The Largest AI Tools Directory._
