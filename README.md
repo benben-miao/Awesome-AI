@@ -139,3 +139,25 @@ better, faster work happens._
 7.10 **[Copy AI: https://www.copy.ai/](https://www.copy.ai/)** - **_Freemium_** - _Whatever you want to ask, our chat has the answers._
 
 ### 8. AI Audio (Official)
+
+8.1 **[XunFei peiyin: https://peiyin.xunfei.cn/](https://peiyin.xunfei.cn/)** - **_Freemium_** - _Make your audio and video creation faster, more conomical and more unique._
+
+8.2 **[Mubert: https://mubert.com/](https://mubert.com/)** - **_Freemium_** - _Human AI Generative Music._
+
+8.3 **[Lovo AI: https://lovo.ai/](https://lovo.ai/)** - **_Freemium_** - _Realistic AI voices that captivate your audience._
+
+8.4 **[Voice AI: https://voice.ai/](https://voice.ai/)** - **_Free_** - _Free Real Time Voice Changer._
+
+8.5 **[Fakeyou: https://fakeyou.com/](https://fakeyou.com/)** - **_Paid_** - _Text to Speech._
+
+8.6 **[Notta AI: https://www.notta.ai/](https://www.notta.ai/)** - **_Freemium_** - _apture the valuable info from every conversation._
+
+8.7 **[Voicemaker: https://voicemaker.in/](https://voicemaker.in/)** - **_Freemium_** - _Create audio files for your commercial use._
+
+8.8 **[Wellsaidlabs: https://wellsaidlabs.com/](https://wellsaidlabs.com/)** - **_Paid_** - _Create voiceovers from text in real time._
+
+8.9 **[Riffusion: https://www.riffusion.com/](https://www.riffusion.com/)** - **_Free_** - _Rock and roll electric guitar solo._
+
+8.10 **[Boomy**: https://boomy.com/](https://boomy.com/)** - **_Free_** - _Create generative music Share it with the world._
+
+### 9. AI Video (Official)
