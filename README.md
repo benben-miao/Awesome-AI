@@ -95,3 +95,22 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 5.5 **[PaperBrain: https://www.paperbrain.study](https://www.paperbrain.study)** - **_Freemium_** - _Exploring your study papers has never been easier._
 
 ### 6. AI Paint (Official)
+6.1 **[Midjourney: https://www.midjourney.com/](https://www.midjourney.com/)** - **_Freemium_** - _Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species._
+
+6.2 **[Leonardo: https://leonardo.ai/](https://leonardo.ai/)** - **_Freemium_** - _Create stunning game assets with AI._
+
+6.3 **[Bing Create: https://www.bing.com/create](https://www.bing.com/create)** - **_Free_** - _Create the lowest word with AI in the image._
+
+6.4 **[Microsoft Designer: https://designer.microsoft.com/](https://designer.microsoft.com/)** - **_Free_** - _Create the lowest word with AI in the image._
+
+6.5 **[Adobe Firefly: https://www.adobe.com/sensei/generative-ai/firefly.html](https://www.adobe.com/sensei/generative-ai/firefly.html)** - **_Freemium_** - _Experiment, imagine, and make an infinite range of creations with Firefly, a family of creative generative AI models coming to Adobe products._
+
+6.6 **[JS Design: https://js.design/ai](https://js.design/ai)** - **_Free_** - _Simultaneous creation, instant design._
+
+6.7 **[DreamStudio: https://beta.dreamstudio.ai/](https://beta.dreamstudio.ai/)** - **_Free_** - _Text to image design._
+
+6.8 **[Tencent ARC: https://arc.tencent.com/](https://arc.tencent.com/)** - **_Free_** - _Tencent ARC Lab is called "scout" and "special forces" of Tencent PCG._
+
+6.9 **[Baidu WenXinYiGe: https://yige.baidu.com/](https://yige.baidu.com/)** - **_Freemium_** - _Ai art and creation._
+
+6.10 **[ClipDrop: https://clipdrop.co/](https://clipdrop.co/)** - **_Freemium_** - _Create stunning visuals in seconds._
