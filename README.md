@@ -1,9 +1,10 @@
 ## Awesome-AI
+**AI**: Artificial Intelligence
 
 ### 1. Introduction
 With the amazing appearance of **ChatGPT of OpenAI**, many new **AI-driven** products have emerged, and the previous excellent products have gradually become more powerful in **integrating AI**.
 
-Involved in: **Chat** (ChatGPT4...), **Read** (ChatPDF...), **Paint** (Midjourney...), **Write** (NotionAI...), **Audio** (Adobe Podcast...), **Video** (Nova AI...), etc.
+Involved in fields: **Chat** (ChatGPT4...), **Code** (Github Copilot...), **Read** (ChatPDF...), **Paint** (Midjourney...), **Write** (NotionAI...), **Audio** (Adobe Podcast...), **Video** (Nova AI...), etc.
 
 Large Language Model (LLM) refers to a deep learning model trained with a large amount of text data, which can generate natural language texts or understand the meaning of language texts. Large language model can handle a variety of natural language tasks, such as question and answer, dialogue, etc., and is an important way to artificial intelligence.
 
@@ -14,6 +15,7 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 - On February, 2023, Baidu officially announced that it would launch Wenxin Yiyan, which was officially launched. The underlying technical foundation of Wenxin Yiyan is Wenxin Big Language Model, and the underlying logic is to provide services through Baidu.
 
 ### 2. AI Collection (English or Chinese)
+
 2.1 **[ProductHunt: https://www.producthunt.com](https://www.producthunt.com)** - **_Free_** - _The best new products in tech._
 
 2.2 **[FuturePedia: https://www.futurepedia.io](https://www.futurepedia.io)** - **_Free_** - _The Largest AI Tools Directory._
@@ -35,6 +37,7 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 2.10 **[Ai-Lib: https://www.ai-lib.club](https://www.ai-lib.club)** - **_Free_** - _Discover and explore artificial intelligence tools._
 
 ### 3. AI Chat (Official)
+
 3.1 **[OpenAI ChatGPT: https://chat.openai.com/chat](https://chat.openai.com/chat)** - **_Freemium_** - _Developing safe and beneficial AI requires people from a wide range of disciplines and backgrounds._
 
 3.2 **[Bing Chat: https://www.bing.com](https://www.bing.com)** - **_Free_** - _ChatGPT for new bing._
@@ -48,3 +51,33 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 3.6 **[Aliyun TongYiQianWen: https://tongyi.aliyun.com](https://tongyi.aliyun.com)** - **_Free_** - _A special response to human instructions Large model._
 
 3.7 **[Jasper Chat: https://www.jasper.ai/chat](https://www.jasper.ai/chat)** - **_Freemium_** - _Jasper Chat: AI as easy as "Hi"._
+
+3.8 **[Anthropic Chat: https://www.anthropic.com](https://www.anthropic.com)** - **_Freemium_** - _AI research and products that put safety at the frontier._
+
+3.9 **[Quora Poe: https://poe.com](https://poe.com)** - **_Free_** - _Sage is a general knowledge bot._
+
+3.10 **[Colossalai Chat: https://chat.colossalai.org](https://chat.colossalai.org)** - **_Free_** - _Colossalai Chat._
+
+### 4. AI Code (Official)
+
+4.1 **[Github Copilot: https://github.com/features/copilot](https://github.com/features/copilot)** - **_Paid_** - _Your AI pair programmer._
+
+4.2 **[Quora Poe: https://www.cursor.so](https://www.cursor.so)** - **_Free_** - _Write, edit, and chat about your code with a powerful AI._
+
+4.3 **[Codeium: https://codeium.com](https://codeium.com)** - **_Freemium_** - _The modern coding superpower._
+
+4.4 **[Microsoft Sketch2code: https://www.microsoft.com/en-us/ai/ai-lab-sketch2code](https://www.microsoft.com/en-us/ai/ai-lab-sketch2code)** - **_Freemium_** - _Sketch2Code uses AI to convert hand-written drawings to working HTML prototypes._
+
+4.5 **[Codium AI: https://www.codium.ai](https://www.codium.ai)** - **_Freemium_** - _Generating meaningful tests for busy devs._
+
+4.6 **[AskCodi: https://www.askcodi.com](https://www.askcodi.com)** - **_Free_** - _All plans include 15+ advanced tools and features to boost your development._
+
+4.7 **[Replit Ghostwriter: https://replit.com/site/ghostwriter](https://replit.com/site/ghostwriter)** - **_Paid_** - _Meet Ghostwriter, your partner in code._
+
+4.8 **[Warp Terminal: https://www.warp.dev](https://www.warp.dev)** - **_Freemium_** - _The terminal for the 21st century._
+
+4.9 **[Fig Terminal: https://fig.io](https://fig.io)** - **_Freemium_** - _The next-generation command line._
+
+4.10 **[BrainAI Imagica: https://get.imagica.ai](https://get.imagica.ai)** - **_Free_** - _BUILD A NO-CODE AI APP IN MINUTES._
+
+### 5. AI Read (Official)
