@@ -13,7 +13,7 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 
 - On February, 2023, Baidu officially announced that it would launch Wenxin Yiyan, which was officially launched. The underlying technical foundation of Wenxin Yiyan is Wenxin Big Language Model, and the underlying logic is to provide services through Baidu.
 
-### 2. AI Collection
+### 2. AI Collection (English or Chinese)
 2.1 **[ProductHunt: https://www.producthunt.com](https://www.producthunt.com)** - **_Free_** - _The best new products in tech._
 
 2.2 **[FuturePedia: https://www.futurepedia.io](https://www.futurepedia.io)** - **_Free_** - _The Largest AI Tools Directory._
@@ -33,3 +33,18 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 2.9 **[AiHub: https://www.aihub.cn](https://www.aihub.cn)** - **_Free_** - _Discover and explore the world's outstanding AI products._
 
 2.10 **[Ai-Lib: https://www.ai-lib.club](https://www.ai-lib.club)** - **_Free_** - _Discover and explore artificial intelligence tools._
+
+### 3. AI Chat (Official)
+3.1 **[OpenAI ChatGPT: https://chat.openai.com/chat](https://chat.openai.com/chat)** - **_Freemium_** - _Developing safe and beneficial AI requires people from a wide range of disciplines and backgrounds._
+
+3.2 **[Bing Chat: https://www.bing.com](https://www.bing.com)** - **_Free_** - _ChatGPT for new bing._
+
+3.3 **[You Chat: https://you.com](https://you.com)** - **_Free_** - _The AI Search Engine You Control._
+
+3.4 **[Google Bard: https://bard.google.com](https://bard.google.com)** - **_Free_** - _Bard can suggest more high-protein options to add to your vegan diet._
+
+3.5 **[Baidu WenXinYiYan: https://yiyan.baidu.com](https://yiyan.baidu.com)** - **_Free_** - _Knowledge-enhanced large language model._
+
+3.6 **[Aliyun TongYiQianWen: https://tongyi.aliyun.com](https://tongyi.aliyun.com)** - **_Free_** - _A special response to human instructions Large model._
+
+3.7 **[Jasper Chat: https://www.jasper.ai/chat](https://www.jasper.ai/chat)** - **_Freemium_** - _Jasper Chat: AI as easy as "Hi"._
