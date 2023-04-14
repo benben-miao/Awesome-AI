@@ -81,3 +81,17 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 4.10 **[BrainAI Imagica: https://get.imagica.ai](https://get.imagica.ai)** - **_Free_** - _BUILD A NO-CODE AI APP IN MINUTES._
 
 ### 5. AI Read (Official)
+
+5.1 **[ChatPDF: https://www.chatpdf.com](https://www.chatpdf.com)** - **_Freemium_** - _Enhance your learning experience with ChatPDF._
+
+5.2 **[ChatDoc: https://chatdoc.com](https://chatdoc.com)** - **_Free_** - _Chat with documents. Get instant answers with cited sources._
+
+5.3 **[PrepAi: https://www.prepai.io](https://www.prepai.io)** - **_Freemium_** - _Generate your Question Paper in Minutes._
+
+5.4 **[Humata: https://www.humata.ai](https://www.humata.ai)** - **_Freemium_** - _Ask AI anything about your files._
+
+5.5 **[PaperBrain: https://www.paperbrain.study](https://www.paperbrain.study)** - **_Freemium_** - _Exploring your study papers has never been easier._
+
+5.5 **[PaperBrain: https://www.paperbrain.study](https://www.paperbrain.study)** - **_Freemium_** - _Exploring your study papers has never been easier._
+
+### 6. AI Paint (Official)
