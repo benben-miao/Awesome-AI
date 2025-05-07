@@ -95,6 +95,9 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 
 4.11 **[batchai: https://github.com/qiangyt/batchai](https://github.com/qiangyt/batchai)** - **_Free_** - _A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes._
 
+4.12  **[Keploy AI: https://keploy.io/](https://keploy.io/)** - **_Freemium_** - _Vertical AI, built just for testing._
+
+
 ### 5. AI Read (Official)
 
 5.1 **[ChatPDF: https://www.chatpdf.com](https://www.chatpdf.com)** - **_Freemium_** - _Enhance your learning experience with ChatPDF._
