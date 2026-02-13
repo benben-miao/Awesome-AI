@@ -197,6 +197,9 @@ better, faster work happens._
 
 9.9 **[Elai: https://elai.io/](https://elai.io/)** - **_Paid_** - _reate AI videos from just text._
 
+
+9.10 **[TubePrompter: https://tubeprompter.com/](https://tubeprompter.com/)** - **_Free_** - _Convert YouTube, TikTok, and Instagram videos into optimized prompts for Sora, Midjourney, and Runway using computer vision frame analysis._
+
 ### 10. AI App (Official)
 
 10.1 **[BrainAI Imagica: https://get.imagica.ai](https://get.imagica.ai)** - **_Free_** - _BUILD A NO-CODE AI APP IN MINUTES._
