@@ -130,6 +130,8 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 
 6.10 **[ClipDrop: https://clipdrop.co/](https://clipdrop.co/)** - **_Freemium_** - _Create stunning visuals in seconds._
 
+6.11 **[igly.ai: https://igly.ai](https://igly.ai)** - **_Freemium_** - _AI image editor for background removal, inpainting, upscaling, and generative fill. [Demo](https://www.youtube.com/watch?v=HB2E1WZ12is)._
+
 ### 7. AI Write (Official)
 
 7.1 **[Notion AI: https://www.notion.so/product/ai](https://www.notion.so/product/ai)** - **_Freemium_** - _Notion is the connected workspace where
