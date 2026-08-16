@@ -191,6 +191,8 @@ better, faster work happens._
 
 9.6 **[Fliki AI: https://fliki.ai/](https://fliki.ai/)** - **_Freemium_** - _Turn text into videos with AI voices._
 
+9.10 **[videos.social: https://videos.social/](https://videos.social/?utm_source=benben-miao-awesome-ai&utm_medium=directory&utm_campaign=listing-wave-d)** - **_Freemium_** - _Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. Packs from $10. 1 credit = 1 render._
+
 9.7 **[Gencraft: https://gencraft.com/](https://gencraft.com/)** - **_Free_** - _The world’s most powerful AI photo and video art generation engine._
 
 9.8 **[Colourlab AI: https://colourlab.ai/](https://colourlab.ai/)** - **_Paid_** - _olourlab AI Powering those ‘I made that’ moments._
