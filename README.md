@@ -70,6 +70,7 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 3.9 **[Quora Poe: https://poe.com](https://poe.com)** - **_Free_** - _Sage is a general knowledge bot._
 
 3.10 **[Colossalai Chat: https://chat.colossalai.org](https://chat.colossalai.org)** - **_Free_** - _Colossalai Chat._
+3.11 **[WSUP AI: https://wsupai.app/](https://wsupai.app/)** - **_Free_** - _Free AI character chat in the browser — talk to AI characters with no sign up. SFW only._
 
 ### 4. AI Code (Official)
 
