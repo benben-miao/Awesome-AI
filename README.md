@@ -155,6 +155,8 @@ better, faster work happens._
 
 7.11 **[Resume Studio: https://resumestudio.careers/](https://resumestudio.careers/)** - **_Freemium_** - _Revolutionary way to build your resume._
 
+7.12 **[ResumeAI: https://withresumeai.com/](https://withresumeai.com/)** - **_Freemium_** - _Free ATS checker (3/day anon, 10/day free account) and AI resume builder; State of ATS 2026._
+
 ### 8. AI Audio (Official)
 
 8.1 **[XunFei peiyin: https://peiyin.xunfei.cn/](https://peiyin.xunfei.cn/)** - **_Freemium_** - _Make your audio and video creation faster, more conomical and more unique._
