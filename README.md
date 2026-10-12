@@ -177,6 +177,8 @@ better, faster work happens._
 
 8.10 **[Boomy: https://boomy.com/](https://boomy.com/)** - **_Free_** - _Create generative music Share it with the world._
 
+8.11 **[QuietTake Noise Remover: https://noiseremover.site/](https://noiseremover.site/)** - **_Free_** - _Browser-local RNNoise speech noise reduction with original/cleaned playback and WAV export; files must be no larger than 50 MB and no longer than five minutes. No account or audio upload._
+
 ### 9. AI Video (Official)
 
 9.1 **[RunwayML: https://runwayml.com/](https://runwayml.com/)** - **_Freemium_** - _Everything you need to make anything you want._
