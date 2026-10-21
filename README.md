@@ -154,6 +154,7 @@ better, faster work happens._
 7.10 **[Copy AI: https://www.copy.ai/](https://www.copy.ai/)** - **_Freemium_** - _Whatever you want to ask, our chat has the answers._
 
 7.11 **[Resume Studio: https://resumestudio.careers/](https://resumestudio.careers/)** - **_Freemium_** - _Revolutionary way to build your resume._
+7.12 **[PDFnoted: https://pdfnoted.com/](https://pdfnoted.com/)** - **_Freemium_** - _Browser-first PDF workspace: AI watermark removal & compliance review_
 
 ### 8. AI Audio (Official)
 
