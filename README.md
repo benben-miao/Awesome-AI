@@ -49,6 +49,8 @@ Large Language Model (LLM) refers to a deep learning model trained with a large 
 
 2.10 **[Ai-Lib: https://www.ai-lib.club](https://www.ai-lib.club)** - **_Free_** - _Discover and explore artificial intelligence tools._
 
+2.11 **[RespawnStack: https://respawnstack.com](https://respawnstack.com)** - **_Free_** - _Curated AI tools directory for game developers._
+
 ### 3. AI Chat (Official)
 
 3.1 **[OpenAI ChatGPT: https://chat.openai.com/chat](https://chat.openai.com/chat)** - **_Freemium_** - _Developing safe and beneficial AI requires people from a wide range of disciplines and backgrounds._
